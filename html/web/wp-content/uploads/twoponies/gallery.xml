@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gallery cellDimension="680" columns="5" rows="3" zoomOutPerc="25" zoomInPerc="80" frameWidth="20" frameColor="0xFFFFFF" captionColor="0xFFFFFF" enableRightClickOpen="true" >
+
+<image>
+   <url>images/VDF.PoniesCobain.jpg</url>
+</image>
+
+<image>
+   <url>images/VDF.PoniesLetter.jpg</url>
+</image>
+
+<image>
+   <url>images/VDF.PoniesGoddess.jpg</url>
+</image>
+
+<image>
+   <url>images/VDF.PoniesEllis.jpg</url>
+</image>
+
+<image>
+   <url>images/VDF.PoniesCondom.jpg</url>
+</image>
+
+<image>
+   <url>images/VDF.PoniesTrumpet.jpg</url>
+</image>
+
+<image>
+   <url>images/VDF.PoniesCrack.jpg</url>
+</image>
+
+<image>
+   <url>images/VDF.PoniesLyrics.jpg</url>
+</image>
+
+<image>
+   <url>images/VDF.PoniesMelon.jpg</url>
+</image>
+
+<image>
+   <url>images/VDF.PoniesShadow.jpg</url>
+</image>
+
+<image>
+   <url>images/VDF.PoniesRedStripe.jpg</url>
+</image>
+
+<image>
+   <url>images/VDF.PoniesMoto.jpg</url>
+</image>
+
+<image>
+   <url>images/VDF.PoniesChicka.jpg</url>
+</image>
+
+<image>
+   <url>images/VDF.PoniesInvisible.jpg</url>
+</image>
+
+<image>
+   <url>images/VDF.PoniesLipstick.jpg</url>
+</image>
+
+</gallery>

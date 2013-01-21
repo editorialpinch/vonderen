@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gallery cellDimension="680" columns="4" rows="4" zoomOutPerc="25" zoomInPerc="100" frameWidth="20" frameColor="0xFFFFFF" captionColor="0xFFFFFF" enableRightClickOpen="true" >
+
+
+<image>
+   <url>images/VDFFloydTitle.gif</url>
+</image>
+
+<image>
+   <url>images/VDFFloydBone.jpg</url>
+</image>
+
+<image>
+   <url>images/VDFFloydBowie.jpg</url>
+</image>
+
+<image>
+   <url>images/VDFFloydConverse.jpg</url>
+</image>
+
+<image>
+   <url>images/VDFFloydJam.jpg</url>
+</image>
+
+<image>
+   <url>images/VDFFloydLeaf.jpg</url>
+</image>
+
+<image>
+   <url>images/VDFFloydGlitter.jpg</url>
+</image>
+
+<image>
+   <url>images/VDFFloydMB03.png</url>
+</image>
+
+<image>
+   <url>images/VDFFloydMB02.png</url>
+</image>
+
+<image>
+   <url>images/VDFFloydMB04.png</url>
+</image>
+
+<image>
+   <url>images/VDFFloydPicks.jpg</url>
+</image>
+
+<image>
+   <url>images/VDFFloydMB06.png</url>
+</image>
+
+<image>
+   <url>images/VDFFloydTurtle.jpg</url>
+</image>
+
+<image>
+   <url>images/VDFFloydSoda.jpg</url>
+</image>
+
+<image>
+   <url>images/VDFFloydPolish.jpg</url>
+</image>
+
+<image>
+   <url>images/VDFFloydTitleFlip.gif</url>
+</image>
+
+</gallery>
